@@ -1,0 +1,11 @@
+git init
+git clone https://one-test.website/git-repository
+git status
+git add Test.txt ->Añadir archivo
+
+git commit  ->Confirmar cambios
+git commit --amend -> Deshacer el último commit
+
+git log
+
+git add CONTRIBUTING.md ->Añadir archivos a cambios
