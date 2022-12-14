@@ -27,3 +27,4 @@ print(type(print("Mi cadena de texto")))  # Tipo 'NoneType'
 
 print("HOlaaaaa")  # Tipo 'NoneType'
 print("HOlaaaaa2")  # Tipo 'NoneType'
+print("HOlaaaaa3")  # Tipo 'NoneType'
