@@ -9,3 +9,5 @@ git commit --amend -> Deshacer el último commit
 git log
 
 git add CONTRIBUTING.md ->Añadir archivos a cambios
+
+git stash-->retoma la última versión
