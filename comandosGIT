@@ -1,3 +1,7 @@
+https://git-scm.com/book/es/v2/Fundamentos-de-Git-Ver-el-Historial-de-Confirmaciones
+
+https://github.com/mouredev/Hello-Python/blob/main/Basic/00_helloworld.py
+
 git init
 git clone https://one-test.website/git-repository
 git status
@@ -6,8 +10,14 @@ git add Test.txt ->Añadir archivo
 git commit  ->Confirmar cambios
 git commit --amend -> Deshacer el último commit
 
-git log
+
+git log--> ver historial de commit
 
 git add CONTRIBUTING.md ->Añadir archivos a cambios
 
 git stash-->retoma la última versión
+
+git push --> Subir repositorio remoto github
+
+
+python3 -m pip install pandas --> instalar librerias
